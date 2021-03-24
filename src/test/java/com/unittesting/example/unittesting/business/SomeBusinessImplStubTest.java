@@ -1,6 +1,6 @@
-package business;
+package com.unittesting.example.unittesting.business;
 
-import data.SomeDataService;
+import com.unittesting.example.unittesting.data.SomeDataService;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

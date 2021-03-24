@@ -1,8 +1,6 @@
-package business;
+package com.unittesting.example.unittesting.business;
 
-import data.SomeDataService;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
+import com.unittesting.example.unittesting.data.SomeDataService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

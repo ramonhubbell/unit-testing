@@ -1,4 +1,4 @@
-package business;
+package com.unittesting.example.unittesting.business;
 
 import org.junit.jupiter.api.Test;
 
